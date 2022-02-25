@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britannia iterum beata: or, A poem-narrative of Her gracious Majesties departure from Lisbone with her thrice-welcome arrival at Portsmouth. By W. W.</title>
+            <author>W. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65485</idno>
+            <idno type="STC">Wing W141</idno>
+            <idno type="STC">ESTC R217647</idno>
+            <idno type="EEBO-CITATION">99829302</idno>
+            <idno type="PROQUEST">99829302</idno>
+            <idno type="VID">33739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1940:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britannia iterum beata: or, A poem-narrative of Her gracious Majesties departure from Lisbone with her thrice-welcome arrival at Portsmouth. By W. W.</title>
+                  <author>W. W.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by James Cottrel,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>anno 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705 --  Poetry --  Early works to 1800.</term>
+               <term>Laudatory poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33739:1"/>
+            <!-- PDF PAGE 7 -->
+            <p>BRITANNIA ITERUM BEATA: OR, A Poem-Narrative OF Her Gracious MAJESTIES Departure from LISBONE, With Her Thrice-Welcome Arrival at PORTSMOUTH.</p>
+            <p>By <hi>W. W.</hi>
+            </p>
+            <q xml:lang="lat">Veni jam A<g ref="char:V">Ʋ</g>G<g ref="char:V">Ʋ</g>STAE Oceani VICTRIX.</q>
+            <q xml:lang="lat">
+               <bibl>
+                  <hi>Juvenal:</hi>
+               </bibl>
+               <l>—Omen habes magni clarique triumphi,</l>
+               <l>Regem aliquem capies.—</l>
+            </q>
+            <p>Printed at <hi>London</hi> by <hi>James Cottrel, Anno</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:33739:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="1" facs="tcp:33739:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <hi>BRITANNIA ITER<g ref="char:V">Ʋ</g>M BEATA:</hi> OR, A Poem-Narrative Of Her Gratious Majeſties Departure from <hi>Lisbone,</hi> &amp;c.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>O Victories o'er the Dutch, do I here ſing,</l>
+               <l>Nor what new Treaſures from the <hi>Indies</hi> bring</l>
+               <l>Our dancing Fleet; but from a Neighb'ring Myne,</l>
+               <l>What's greater far, the Treaſure <hi>KATHARINE.</hi>
+               </l>
+               <l>Till now I thought, the <hi>Portuguez</hi> in vain</l>
+               <l>So eagerly did Plow the Indian Main</l>
+               <l>In queſt of Gold, when his own private Store</l>
+               <l>Could ſhew far richer then their Dirty Ore.</l>
+               <l>But ſee the Reaſon, ſure, he did intend</l>
+               <l>To make our <hi>Britain</hi> Wealthy, and to lend</l>
+               <l>Us <hi>Lisbon</hi>'s All: Nay, and to ſent it home,</l>
+               <l>Suppoſe our <hi>CHARLES</hi> obliged would become.</l>
+               <l>He's bound; ſhe comes: yet it that Nation knew</l>
+               <l>To falſifie their Word, it can't be true:</l>
+               <l>
+                  <pb n="2" facs="tcp:33739:3"/>
+                  <!-- PDF PAGE 9 -->
+For ſure, me thinks, I ſee fair <hi>Lisbon</hi>'s Strand</l>
+               <l>Wall'd round with Thouſands, which though drooping ſtand,</l>
+               <l>Do living Bulwarks ſeem, to keep her there;</l>
+               <l>Yet do they fall, when ſhe doth once appear:</l>
+               <l>And thoſe that thought her Paſſage to deny,</l>
+               <l>Now walk a Breach, that ſhe might paſs thereby.</l>
+               <l>Fain would they have her ſtay, fain have her go;</l>
+               <l>At one time queſtion'd tongues ſpeak <hi>I</hi> and <hi>No.</hi>
+               </l>
+               <l>Each bended have two Knees; the one to pray</l>
+               <l>The Gods for Wind, the other Her to ſtay.</l>
+               <l>Each pleaſant, yet ſad Face, a double Eye</l>
+               <l>Doth bear; the one doth weep, whilſt t' other's dry.</l>
+               <l>Great Contradictions ſure, doth reconcile</l>
+               <l>That Peace-make Cheek on which Tears meet a Smile.</l>
+               <l>'Tis ſtrange; and none but ſuch a Saint as ſhe</l>
+               <l>Of ſuch a Miracle could Actreſs be.</l>
+               <l>Hold! hold your Medley-Mourning; 'tis in vain:</l>
+               <l>See where ſhe comes, heading her Virgin-train.</l>
+               <l>The Crowd ſtraight make a circling Lane, that ſhe,</l>
+               <l>Though going from them, yet might with them be:</l>
+               <l>And like a Labyrinth, they run it round;</l>
+               <l>But the Way out to Her's not long unfound.</l>
+               <l>She ſaw their Drift; yet angry not, look'd down</l>
+               <l>With ſuch a Brow as never knew to frown,</l>
+               <l>Upon the kneeling Throng on either Hand,</l>
+               <l>Whoſe Knees were couchen'd by the yeilding Sand.</l>
+               <l>Here caſts an Eye, there Nods; here throws a Smile:</l>
+               <l>So parting Nurſes Children do beguile.</l>
+               <l>But ſee, ſhe now unto the Bank is come</l>
+               <l>Which parts great <hi>Neptunes</hi> Kingdom from her Home;</l>
+               <l>
+                  <pb n="3" facs="tcp:33739:3"/>
+                  <!-- PDF PAGE 9 -->
+Where ſhe ſurvey'd, as proudly there did ſtand</l>
+               <l>A floating City under the Command</l>
+               <l>Of <hi>Neptunes</hi> eldeſt Son, which that did bring</l>
+               <l>A Preſent to Her from the Oceans King.</l>
+               <l>She kindly doth accept it; but what's more,</l>
+               <l>Reſolves to thank Him on the Britiſh Shore.</l>
+               <l>Then Smiles a Farewel, looking round about;</l>
+               <l>And thus ſhe puts the People out of doubt:</l>
+               <l>Steps on the Boat; where whilſt this Foot did ſtand,</l>
+               <l>The other is kept Priſoner by the Land:</l>
+               <l>But ſure it was not long; for ſmiling, She</l>
+               <l>Again looks back, and ſtraight it was ſet free.</l>
+               <l>No ſooner entred, but the Saylors ſhout;</l>
+               <l>And cry, <hi>They</hi> Portugal <hi>have in their Boat.</hi>
+               </l>
+               <l>And well as heavy lading might they fear,</l>
+               <l>VVhen <hi>Lisbons</hi> Hearts, and ſad ones, all were there.</l>
+               <l>Now ſcarce their Oars had ſtruck a treble Stroke,</l>
+               <l>But they, unto a greater Bulk of Oak</l>
+               <l>Reſigne their pretious Fraight; where Sayls they hoiſe,</l>
+               <l>And ſleeping Anchors, with a hideous Voice,</l>
+               <l>They call from the Deep: ſo doth <hi>Charon</hi> roar,</l>
+               <l>VVhen tugging he, <hi>Styx</hi> Waves do bend his Oar.</l>
+               <l>The rais'd-now Canvas ſwells, 'cauſe proud to know</l>
+               <l>Their <hi>CHARLES</hi> his <hi>KATHARINE</hi> doth ſtand below:</l>
+               <l>And ſtraight into a Canopie they ſpread,</l>
+               <l>Although unfit for their great Miſtreſs Head:</l>
+               <l>VVho checks their promptneſs, bids the Veſſel ſtay;</l>
+               <l>Which they ſtraight hear, and crouching do obey:</l>
+               <l>The Reaſon ſhe, almoſt forgot a Thing,</l>
+               <l>Deſign'd a Preſent for great <hi>Britains</hi> King:</l>
+               <l>A pretious Thing indeed; it was her Heart,</l>
+               <l>Which would take leave before it did depart.</l>
+               <l>
+                  <pb n="4" facs="tcp:33739:4"/>
+                  <!-- PDF PAGE 10 -->
+The Bruitiſh Sea-men cry, Their Wind doth fail,</l>
+               <l>When ſtraight the Peoples Sighs do ſwell their Sail.</l>
+               <l>Which plainly doth their Mountain-Grief expreſs</l>
+               <l>To let her go, and yet their willingneſs.</l>
+               <l>But what far ſtranger is, I'll tell you, they</l>
+               <l>Could water lend, if ſhallow were their Bay:</l>
+               <l>For now ſad <hi>Lisbons</hi> Pavements do drink more</l>
+               <l>Then ever did her large and ſpungie Shore.</l>
+               <l>But wind nor water wanting, doth ſhe go,</l>
+               <l>Gliding from what her Eyes direct her to:</l>
+               <l>Till crawling diſtance at the length had made</l>
+               <l>Of <hi>Lisbons</hi> Towers and Bulk, an Azure ſhade.</l>
+               <l>Then do her ſad and gloomed Eyes ſurvey</l>
+               <l>The lofty Banks of the wide-gaping Bay:</l>
+               <l>Whoſe diſtance ſeem'd willing to let her out,</l>
+               <l>Till their ſharp Nooks advancing, put this Doubt,</l>
+               <l>Whether they did not all intend to meet,</l>
+               <l>And ſo to hinder the glad-paſſing Fleet:</l>
+               <l>Who void of Fear, with a Majeſtick Pride,</l>
+               <l>Doth cut her Channel, and through it doth ride</l>
+               <l>Unto her Mother-Ocean; where fit Gales</l>
+               <l>Do gladly whiſtle in her willing ſails;</l>
+               <l>And puffs her on ſo faſt, that what a Land</l>
+               <l>Spacious once ſeem'd, ſeems now a heap of ſand.</l>
+               <l>And now the Queen her <hi>Portugal</hi> can't ſee,</l>
+               <l>Yet ſees her <hi>Portugals</hi> Epitomie.</l>
+               <l>But 'twas not long; for whilſt ſhe look'd about,</l>
+               <l>Her Eyes returning, finde the ſpot waſh'd out.</l>
+               <l>The Sun at length, though poſting he did ride,</l>
+               <l>Who was at Sea, had from his Wain now ſpy'd;</l>
+               <l>And therefore leaves the Spheres, cauſe he did know</l>
+               <l>The Sea had then Divinity below</l>
+               <l>
+                  <pb n="5" facs="tcp:33739:4"/>
+                  <!-- PDF PAGE 10 -->
+In greater ſtore: here he dances, here he plays;</l>
+               <l>Here he falls, here he baths his cholerick Rays.</l>
+               <l>But when he found that he was look'd upon</l>
+               <l>With greater luſtre far, then was his own,</l>
+               <l>Bluſhing looks down; and then, for anger he</l>
+               <l>Will needs go drown himſelf there in the Sea.</l>
+               <l>The Night follows; veil'd with a Mourning-Cloud,</l>
+               <l>His Siſter-Moon doth bring his Milky-ſhrowd:</l>
+               <l>The Stars his Torches; all the Planets run</l>
+               <l>Now to the Burial of their Brother-Sun.</l>
+               <l>They all deſcended are now to the Deep,</l>
+               <l>And yet they do their Heavenly ſtation keep:</l>
+               <l>For when the Saylor doth his forehead rear</l>
+               <l>Unto the skie, they to him there appear:</l>
+               <l>Then looking down into the Oceans Brine,</l>
+               <l>He alſo doth obſerve them there to ſhine.</l>
+               <l>Why doth the fooliſh Sterns-man look ſo high,</l>
+               <l>When he may ſayl, now, by the Oceans skie?</l>
+            </lg>
+            <lg>
+               <l>By this time had ſad <hi>Cynthia</hi> almoſt gone,</l>
+               <l>In both her heavens, her proceſſion:</l>
+               <l>But bolder now, by grief, reſolves to ſee,</l>
+               <l>Before ſhe went away, that glittering ſhe</l>
+               <l>
+                  <hi>Sol</hi> fell by: through the chryſtal venters in,</l>
+               <l>Where ſlumbring lay the thoughtleſs Queen, within;</l>
+               <l>And boldly dar'd to reach her veiled eyes,</l>
+               <l>Which feel, unveil, then bid their Miſtreſs riſe;</l>
+               <l>Who angry rouz'd, doth with one ſingle breath</l>
+               <l>Two Miracles; both give, and take from death:</l>
+               <l>She life unto the buried Sun ſtraight gave,</l>
+               <l>And bids the Moon go take his watry grave.</l>
+               <l>No ſooner ſpoke, but Moon and Night are fled;</l>
+               <l>The thankful Sun, now peeping, rears his head:</l>
+               <l>
+                  <pb n="6" facs="tcp:33739:5"/>
+                  <!-- PDF PAGE 11 -->
+E'er ſince, ſad Night attends the Moon; the Sun</l>
+               <l>Dances, glad of his Reſurrection:</l>
+               <l>They both, by turns, thrice ſeven times did ſhine</l>
+               <l>Upon the Poup, the Flanks, the lofty Pine,</l>
+               <l>Which from the ſpreading middle up doth ſprout,</l>
+               <l>Of her ſo mountanous, yet moving root;</l>
+               <l>Whilſt the poor <hi>Brittons</hi> longings, and their fears,</l>
+               <l>Do think it more then thrice three ſeven years.</l>
+               <l>But ſee now, how the Saylors thronging ſtand,</l>
+               <l>Who ſhall diſcover firſt, and ſhew the Land</l>
+               <l>Unto the ready Queen, whoſe wandring eyes</l>
+               <l>Do fetch long Journies in the ſeas and skies</l>
+               <l>In vain; when a too-forward ſea-man cries,</l>
+               <l>With chearful Voyce, <hi>See where Great</hi> Britain <hi>lies!</hi>
+               </l>
+               <l>Then did directly point at that which he</l>
+               <l>Nor any of his Fellows, ſure, could ſee:</l>
+               <l>But for his credit, at length there appears</l>
+               <l>A Bank, which to the skies his ſharp Head rears.</l>
+               <l>He ſeen, ſees; and as the Queen drew nigher,</l>
+               <l>The Hill grows proud, and ſtill ſtrutteth higher.</l>
+               <l>And now, each gentle Gale affords their Eyes</l>
+               <l>More then thrice welcome freſh Diſcoveries.</l>
+               <l>The Britiſh ſhores are crowded all along</l>
+               <l>VVith a ſtill praying and expecting throng;</l>
+               <l>VVho furniſh'd, ſince their own eyes could not do't,</l>
+               <l>Each with a glazen eye to play the ſcout;</l>
+               <l>Theſe wandring to and fro, at length did meet</l>
+               <l>A happy one with the advancing Fleet.</l>
+               <l>He joy'd, cries out, <hi>See how they cut the Main!</hi>
+               </l>
+               <l>
+                  <hi>See how attended with a ſcaly train,</hi>
+               </l>
+               <l>
+                  <hi>The wooden hills do roul! ſee how they ſhow,</hi>
+               </l>
+               <l>
+                  <hi>With Sayls, like walking mountains topt with ſnow.</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:33739:5"/>
+                  <!-- PDF PAGE 11 -->
+But 'twas not long, that onely this, and ſome</l>
+               <l>VVere happie; for now, all cry out, <hi>They come!</hi>
+               </l>
+               <l>And whilſt they gazing ſtand, each private eye,</l>
+               <l>Without a help, each Pulley can diſcry.</l>
+               <l>Now Peaſants dancing, from aloft do give</l>
+               <l>A welcome to the Queen, with a <hi>Long live!</hi>
+               </l>
+               <l>The courchying Shepherdeſſes too, ſtand by,</l>
+               <l>For joy, clad in the gay months Livery.</l>
+               <l>The Queen obſerves, and bids the Pilots ride</l>
+               <l>Neerer unto the high Cliffs craggie ſide;</l>
+               <l>Over whoſe top, the wealthy ſoil doth peep,</l>
+               <l>To ſee her new Queen, while ſhe's in the deep.</l>
+               <l>The panching Rocks fain would fall aſunder,</l>
+               <l>That they might welcome her with a thunder,</l>
+               <l>Such as they know will do the neighb'ring Forts,</l>
+               <l>VVith roaring Ecchoes of their Guns reports.</l>
+               <l>The trees all bow, and drooping ſeem to ſtand,</l>
+               <l>Becauſe their roots now tie them to the land:</l>
+               <l>But by their meſſenger, the VVinde, they ſtrow</l>
+               <l>Thoſe waves with leaves, o'er which the Queen doth go.</l>
+               <l>From whom, theſe ſoft amuſements ſtole the thought</l>
+               <l>Of landing, till ſhe to her Port was brought;</l>
+               <l>To whoſe bleſt ſhore, the Pilot with glad pride,</l>
+               <l>His ſad and melancholy Bulks doth guide;</l>
+               <l>Grieving, ſince paſt all dangers of the ſea,</l>
+               <l>They in the Haven now ſhould ſhipwrack'd be:</l>
+               <l>And now, thus to receive their heavieſt doom,</l>
+               <l>As baniſh'd Traytors, when returned home:</l>
+               <l>They onely to their King their lives reſigne;</l>
+               <l>But theſe, their deareſt All, their <hi>KATHARINE.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Sayls now flagging fall, the Streamer too,</l>
+               <l>Which us'd, with dancing courtſhip, ſo to woo</l>
+               <l>
+                  <pb n="8" facs="tcp:33739:6"/>
+                  <!-- PDF PAGE 12 -->
+The wind into the ſayls, now hangs his head;</l>
+               <l>The fluttering Jack reſolves no more to ſpread.</l>
+            </lg>
+            <lg>
+               <l>But ſee! the flaming ſhore doth now expreſs</l>
+               <l>The better contrary, in its exceſs:</l>
+               <l>And whilſt her ſands, the Queens advancing feet</l>
+               <l>Do bleſs, a thouſand thouſand hearts them meet;</l>
+               <l>And thrice thrice-loyal ones are all thrown down,</l>
+               <l>To pave a Cauſey for them, to the town;</l>
+               <l>Whoſe gates ſhe with the like joy enters through,</l>
+               <l>As <hi>Londons</hi> did great <hi>CHARLES,</hi> not long ago.</l>
+               <l>The Peoples ſhouts now fill the ſmiling skies,</l>
+               <l>They Vows, with ſparkling Bonfires ſacrifice;</l>
+               <l>VVhere round them doth a buſie ſmall crowd ſtand;</l>
+               <l>Each hath a liberal, though little hand.</l>
+               <l>The Pavements all, do by their luſtre ſhine,</l>
+               <l>VVhilſt ſome allay their heat with luſtie wine.</l>
+               <l>The Chanel drunk, yet gulping, doth he go,</l>
+               <l>And whiſtles joy, as he reels to and fro:</l>
+               <l>And whilſt ſome, ſweating, do the Bells employ,</l>
+               <l>The Steeples know the cauſe, and dance for joy.</l>
+               <l>The lofty Towers, which o'er the reſt do clime,</l>
+               <l>Do, with their ſinging Cannons too, keep time.</l>
+               <l>In fine, nought elſe but general Joy is ſeen;</l>
+               <l>Each action eccho'd with <hi>Long live the Queen.</hi>
+               </l>
+               <l>The tongue-ty'd Babe, which can nor ſpeak nor go,</l>
+               <l>Doth, with his ſhrug and ſmile, expreſs it too:</l>
+               <l>His little gelly'd hands, joyn'd, ſeem to pray</l>
+               <l>Both for his Queen, and many ſuch a day.</l>
+            </lg>
+            <lg>
+               <l>Great <hi>CHARLES,</hi> ere this, had heard a freſh Expreſs</l>
+               <l>Speak <hi>Portmouths</hi> joy, and <hi>Britains</hi> happineſs:</l>
+               <l>He ſtraight glad <hi>London</hi> leaves; the firſt time he</l>
+               <l>Did leave her, that, he gone, ſhe glad could be.</l>
+               <l>
+                  <pb n="9" facs="tcp:33739:6"/>
+                  <!-- PDF PAGE 12 -->
+Her ſtreets have fires too; but her hearts within</l>
+               <l>Have more, to ſacrifice them to their Queen;</l>
+               <l>To whom, ere this, he ſwell'd with joy doth bring</l>
+               <l>
+                  <hi>Great Britains</hi> All, wrapt up in her great King:</l>
+               <l>And now they interview; but what they ſay</l>
+               <l>Is for the gods to ſpeak, for us to pray.</l>
+            </lg>
+            <lg>
+               <l>May he now tie their hands, which ty'd their heart;</l>
+               <l>And may the world give end before they part.</l>
+               <l>May from them both, to future <hi>England</hi> ſpring</l>
+               <l>Such as himſelf, a good, a valiant King.</l>
+               <l>May alſo after-ages from them ſhine,</l>
+               <l>With ſuch as ſhe, a vertuous <hi>KATHARINE.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To this, let all but ſea-men cry <hi>Amen:</hi>
+               </l>
+               <l>
+                  <hi>May our blest Queen ne'er go to Sea agen.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
